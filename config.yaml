@@ -1,0 +1,9 @@
+fred:
+  api_key: "073914dde49fae34b18758f48bde0713"
+
+postgres:
+  host: "localhost"
+  port: 5432
+  user: "postgres"
+  password: "postgres"
+  database: "macro_dw"
